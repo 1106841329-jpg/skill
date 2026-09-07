@@ -1,0 +1,4 @@
+interface:
+  display_name: "行业知识理解与业务定位助手"
+  short_description: "解释行业疑问与业务关系，结合实际条件判断原因，并按需串联已学知识"
+  default_prompt: "使用 $industry-knowledge-business-locator 解释我的专业疑问，结合具体业务说明它的位置、关联场景与判断依据。"
