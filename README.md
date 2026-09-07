@@ -15,7 +15,7 @@ npx --yes skills add 1106841329-jpg/skill --skill cag-dev-term-decoder -a codex 
 解释制造业及其他行业的专业名词、岗位、设备、流程和业务疑问，结合具体业务条件理清职责、数据、因果与关联场景，并按需串联已学知识。
 
 ```bash
-npx --yes skills add 1106841329-jpg/skill --skill industry-knowledge-business-locator -a codex -g -y
+npx --yes skills add https://github.com/1106841329-jpg/skill/tree/main/industry-knowledge-business-locator --skill industry-knowledge-business-locator -a codex -g -y
 ```
 
 安装完成后，新建或重新打开 Codex 任务。也可以显式调用：
