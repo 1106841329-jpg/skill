@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAG 开发术语定位助手"
+  short_description: "解释开发术语与方案取舍，联系产品业务，并串联已学技术知识"
+  default_prompt: "使用 $cag-dev-term-decoder 解释这段研发讨论，说明技术选择、产品位置和需要确认的问题。"
